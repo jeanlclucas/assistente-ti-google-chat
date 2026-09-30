@@ -1,0 +1,13 @@
+{
+  "name": "assistente-ti-google-chat",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Assistente de suporte de TI para Google Chat com IA (Gemini) e abertura de chamados no GLPI, feito em Google Apps Script.",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "author": "Jean Lucas Carvalho"
+}
