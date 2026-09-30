@@ -157,4 +157,6 @@ Cenários cobertos:
 ## Autor
 
 **Jean Lucas Carvalho**: assistente de TI e estudante de Ciência da Computação.
-GitHub: [@jeanlclucas](https://github.com/jeanlclucas)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jean%20Lucas%20Carvalho-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-lucas-carvalho-4a2811154/)
+[![GitHub](https://img.shields.io/badge/GitHub-jeanlclucas-181717?logo=github&logoColor=white)](https://github.com/jeanlclucas)
