@@ -1,0 +1,13 @@
+# Credenciais e configuracoes locais - nunca versionar
+.clasprc.json
+.clasp.json
+.env
+*.key
+*.pem
+credentials*.json
+client_secret*.json
+
+# Dependencias e sistema
+node_modules/
+.DS_Store
+Thumbs.db
